@@ -1,0 +1,19 @@
+From: Microsoft Account Team <account-team@outlook-support.example.test>
+To: user@example.test
+Subject: Reactivate Your Outlook Account
+
+Dear User,
+
+Your Hotmail account services have expired.
+
+You must reactivate your account for it to remain active.
+
+Sign in and reactivate your account:
+
+https://account-live.example.test/reactivate
+
+Thanks,
+
+The Microsoft Account Team
+
+This is a safe, synthetic phishing simulation using a reserved test domain.

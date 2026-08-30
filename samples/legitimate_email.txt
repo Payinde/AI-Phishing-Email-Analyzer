@@ -1,0 +1,14 @@
+From: HR Department <hr@example.test>
+To: employee@example.test
+Subject: Updated holiday schedule
+
+Hello team,
+
+The updated holiday schedule is available on the internal employee portal.
+
+Please contact Human Resources if you have any questions.
+
+Regards,
+HR Department
+
+This is a safe, synthetic training sample.
