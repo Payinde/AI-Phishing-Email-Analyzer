@@ -7,8 +7,7 @@ The application examines sanitized email content, assigns a risk score, identifi
 > Training and portfolio project only. Automated findings must be validated by a human analyst.
 
 ## Portfolio Report
-
-📄 **[Open the complete AI Phishing Email Analyzer Portfolio Report](evidence/AI_Phishing_Email_Analyzer_Portfolio_Report.pdf)**
+📄 **[Open the complete AI Phishing Email Analyzer Portfolio Report](https://github.com/Payinde/AI-Phishing-EmailAnalyzer/blob/main/evidence/AI_Phishing_Email_Analyzer_Portfolio_Report.pdf?raw=1)**
 
 The illustrated report documents the application interface, architecture, sanitized test emails, detection results, false-negative corrections, Local-AI guardrails, annotated code excerpts, automated testing, limitations, and GitHub publication workflow.
 
