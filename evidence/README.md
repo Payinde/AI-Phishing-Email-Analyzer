@@ -1,6 +1,6 @@
 # Portfolio Evidence
 
-📄 **[Open the AI Phishing Email Analyzer Portfolio Report](https://github.com/Payinde/AI-Phishing-Email-Analyzer/blob/main/evidence/AI_Phishing_Email_Analyzer_Portfolio_Report.pdf?raw=1)**
+📄 **[Open or download the AI Phishing Email Analyzer Portfolio Report](https://raw.githubusercontent.com/Payinde/AI-Phishing-Email-Analyzer/main/evidence/AI_Phishing_Email_Analyzer_Portfolio_Report.pdf)**
 
 This directory contains sanitized evidence demonstrating the development,
 testing, and validation of the AI Phishing Email Analyzer.

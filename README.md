@@ -7,7 +7,7 @@ The application examines sanitized email content, assigns a risk score, identifi
 > Training and portfolio project only. Automated findings must be validated by a human analyst.
 
 ## Portfolio Report
-📄 **[Open the complete AI Phishing Email Analyzer Portfolio Report](https://github.com/Payinde/AI-Phishing-EmailAnalyzer/blob/main/evidence/AI_Phishing_Email_Analyzer_Portfolio_Report.pdf?raw=1)**
+📄 **[Open or download the complete AI Phishing Email Analyzer Portfolio Report](https://raw.githubusercontent.com/Payinde/AI-Phishing-Email-Analyzer/main/evidence/AI_Phishing_Email_Analyzer_Portfolio_Report.pdf)**
 
 The illustrated report documents the application interface, architecture, sanitized test emails, detection results, false-negative corrections, Local-AI guardrails, annotated code excerpts, automated testing, limitations, and GitHub publication workflow.
 
@@ -106,8 +106,8 @@ Ollama is not required to use the rule-based detection engine or run the automat
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Payinde/ai-phishing-email-analyzer.git
-cd ai-phishing-email-analyzer
+git clone https://github.com/Payinde/AI-Phishing-Email-Analyzer.git
+cd AI-Phishing-Email-Analyzer
 ```
 
 ### 2. Create a virtual environment
